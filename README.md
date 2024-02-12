@@ -1,6 +1,6 @@
 # The-calculation-of-Islamic-prayer-times
 
-The IslamicPrayerTimesCalculator repository a calculation for accurately calculating Islamic prayer times. This repository houses advanced algorithms and methods designed to precisely determine the five daily prayer timings based on geographical coordinates and calendar dates.
+The IslamicPrayerTimesCalculator repository a calculation for accurately calculating Islamic prayer times. This repository houses advanced algorithms and methods designed to precisely determine the five daily prayer timings based on geographical, astronomical coordinates and calendar dates.
 
 **The Method Contain:**
 
